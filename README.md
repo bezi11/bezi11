@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bezi11, Bachelors degree in Infromation System from Debre Birhan University, ICT trainer in Nifas Silk ploy technique college.
 - 👀 I’m intersted in Tech and Data science.
-- 🌱 I’m currently learning my masters Degree at Addis Ababa University in Natural and Comoutational Data Science.
+- 🌱 I’m currently learning my masters Degree at Addis Ababa University in Natural and Computational Data Science.
 - 💞️ I’m looking to collaborate on the area of data sceince.
 - 📫 How to reach me www.linkedin.com/in/bezawit-mamo-385030192, @bezawitm23@gmail.com
 
